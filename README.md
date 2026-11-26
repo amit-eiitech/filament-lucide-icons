@@ -63,6 +63,7 @@ Other supported values include:
 ->strokeWidth(1.25)
 ->strokeWidth(2)
 ```
+![Filament Lucide Icons - Lucide Icons for Filament Panels](docs/images/stroke-comparision.png)
 
 ### 2. Use Lucide icons
 
