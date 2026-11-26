@@ -1,0 +1,28 @@
+{
+  "name": "eii/filament-lucide-icons",
+  "description": "A Filament plugin for Lucide icons with global stroke width configuration.",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "laravel",
+    "filament",
+    "filament-plugin",
+    "lucide",
+    "icons"
+  ],
+  "require": {
+    "php": "^8.2",
+    "filament/filament": "^4.0|^5.0",
+    "technikermathe/blade-lucide-icons": "^3.163"
+  },
+  "autoload": {
+    "psr-4": {
+      "Eii\\FilamentLucideIcons\\": "src/"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
